@@ -5,7 +5,7 @@
 
 This is a fullstack DApp NFT Marketplace built as a study project to learn more about blockchain and smart contract development.  
 Made with NodeJS, Hardhat, Solidity, ReactJS, NextJS and Vercel.(#updateing readme file)
-
+#again doing some changes just random stuff.
 
 ## Demo
 
